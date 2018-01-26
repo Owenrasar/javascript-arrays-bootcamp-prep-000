@@ -5,9 +5,9 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
+var chocolateBars = [
+  'snickers',
+  'hundred grand',
   'olive oil',
   'basil',
   'oregano'
