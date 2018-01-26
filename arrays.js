@@ -8,7 +8,6 @@ var ingredient6 = "garlic"
 var chocolateBars = [
   'snickers',
   'hundred grand',
-  'olive oil',
-  'basil',
-  'oregano'
+  'kitkat',
+  'skittles'
 ]
